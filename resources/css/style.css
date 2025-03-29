@@ -87,3 +87,25 @@ button{
   flex-direction: column;
   margin-left: 10px;
 }
+
+.section_3{
+  background-color: #aba3a1 ;
+  color: #524f4f;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.section_3 .images{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.section_3 img{
+  width: 70%;
+  height: auto;
+}
+.section_3 .box{
+  margin: 32px;
+}
