@@ -1,0 +1,46 @@
+html {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.banner{
+  display: flex;
+  font-family: sans-serif;
+}
+nav{
+  margin-left: auto;
+  margin-right: 15px;
+}
+nav ul{
+  display: flex;
+  gap: 20px;
+}
+
+.section_1{
+  display: flex;
+  background-color: #aba3a1 ;
+}
+
+.section_1 img{
+  width: 60%;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  margin-left: 24px;
+}
+
+.section_1 .text{
+  color: #524f4f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+button{
+  background-color: #403e3e;
+  color: azure;
+  width: 30%;
+  height: 30px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
